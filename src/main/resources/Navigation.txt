@@ -1,0 +1,33 @@
+Hello, dear Customer!
+Here is a navigation list with commands that you can use in ORKOSTAN.
+_______________________________________________________________________________________________________________
+
+* Ctrl + Left Mouse Button - activation of the control buttons located in the upper left corner of the program;
+* Insert/Left Mouse Button - generating a new orc;
+* Click on orc - its activation;
+
+* Keys that works only with active orcs:
+
+     Esc - deactivation of active orcs;
+     Delete - killing an orc;
+     C - cloning;
+     M - change cloned orc;
+
+* Keys to move active orcs:
+
+     W - to the top;
+     S - to the bottom;
+     A - to the left;
+     D - to the right;
+
+* Keys to move a visible part of the program window:
+
+     Up - to the top;
+     Down - to the bottom;
+     Left - to the left;
+     Right - to the right;
+
+* P - interface Comparable/sorting an array of soldiers by x-coordinate (output on console)
+* Home - close the program.
+_______________________________________________________________________________________________________________
+Enjoy!
